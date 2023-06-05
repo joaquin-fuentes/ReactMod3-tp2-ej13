@@ -6,7 +6,7 @@ En este repositorio se encuentra el Ejercicio 13 del Trabajo Practico Numero 2 d
 - npm install
 - npm run dev
 
-- O tambien puede ingresar al siguiente link de netlify con el proyecto ya subido: 
+- O tambien puede ingresar al siguiente link de netlify con el proyecto ya subido:  https://react-tp2-ej13-joaquinfuentes.netlify.app/
 
 # Integrantes del proyecto
 Fuentes Joaquín Alberto
